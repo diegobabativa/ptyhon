@@ -1,2 +1,2 @@
-# ptyhon
+# Python
 Python Exercises
