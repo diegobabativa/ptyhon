@@ -1,0 +1,3 @@
+/*@Autor: Diego Babativa
+@Description: BackPropagation neural Network
+@Source: http://iamtrask.github.io/2015/07/12/basic-python-network/*/
